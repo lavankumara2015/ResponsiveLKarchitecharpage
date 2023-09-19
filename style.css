@@ -8,11 +8,7 @@ position: sticky;
 top: 0;
 z-index: 1;
 left: 5px;
-
-
-   
-    
-        
+      
 }
 .nav1{
      position: relative;
@@ -124,7 +120,7 @@ a:hover{
 .summername{
     background-color: black;
     width: 140px;
-    height: 25px;
+    height: 55px;
     color: white;
     padding: 3px;
     text-align: center;
